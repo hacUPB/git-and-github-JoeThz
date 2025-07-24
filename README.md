@@ -1,7 +1,39 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante:  Joe Tamayo 
+Id.:  000577204
+
+
+# Descripción del repositorio
+
+Este repositorio contiene la estructura y documentación de la Unidad No. 1 - Git y GitHub. Incluye ejemplos prácticos sobre el uso de la consola, la creación de repositorios locales y remotos, y un script en Python para calcular el promedio de una lista de números y contiende documentación detallada sobre los comandos y procesos aprendidos.
+
+## Pasos para clonar y ejecutar el proyecto
+
+1. Clona el repositorio desde GitHub: 
+
+clone https://github.com/usuario/nombre-del-repositorio.git
+
+2. Ingresa al directorio del proyecto:
+
+   cd nombre-del-repositorio
+
+3. Ejecuta el script de ejemplo:
+
+   cd src
+
+   vim python_script.py
+
+
+## Tabla de contenido
+
+- [Documentación sobre uso de la consola](docs/uso_consola.md)
+- [Cómo crear un repositorio local](docs/repositorio_local.md)
+- [Cómo crear un repositorio remoto](docs/repositorio_remoto.md)
+
+
+
 ---
 # Evaluación
 

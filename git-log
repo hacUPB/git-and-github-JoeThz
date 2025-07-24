@@ -1,0 +1,71 @@
+[33mcommit a957074d088cf6b578d7c51064ebcf51d36b01f1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Joe <joe.tamayo@upb.edu.co>
+Date:   Thu Jul 24 17:17:40 2025 -0500
+
+    Creé un archivo .gitignore con el fin de indicar qué archivos o carpetas deben ser ignorados por Git.
+
+[33mcommit d2a2aea1fe9b9155f3929035d9b445c5b058c410[m
+Author: Joe <joe.tamayo@upb.edu.co>
+Date:   Thu Jul 24 17:16:19 2025 -0500
+
+    Creé un script de python para probar un archivo funcional en el proyecto.
+
+[33mcommit 8035d4ce4bb9572b4b58ba8f7fbe3c3de46138ae[m
+Author: Joe <joe.tamayo@upb.edu.co>
+Date:   Thu Jul 24 17:14:37 2025 -0500
+
+    Creé un archivo .md en el que describo los comandos necesarios para modificar un repositorio remoto.
+
+[33mcommit e28afa0e82e344ce5a349c9bbfcc9c4904241f3a[m
+Author: Joe <joe.tamayo@upb.edu.co>
+Date:   Thu Jul 24 17:13:01 2025 -0500
+
+    Creé un archivo .md en el que describo los comandos necesarios para modificar un repositorio local.
+
+[33mcommit 32a79b03e2d2ef2203c7a1e66ea6dc0899613dfa[m
+Author: Joe <joe.tamayo@upb.edu.co>
+Date:   Thu Jul 24 17:09:07 2025 -0500
+
+    Creé un archivo con el fin de describir los comandos necesarios para navegar en la consola.
+
+[33mcommit 6bd81c12a6c1611ca6ec1b023b894ef0c88fada9[m
+Author: Joe <joe.tamayo@upb.edu.co>
+Date:   Thu Jul 24 17:05:33 2025 -0500
+
+    Creé una tabla de contenido sobre los archivos en el directorio docs.
+
+[33mcommit 3afa62ab26e0071e1664b43248e158371e55e490[m
+Author: Joe <joe.tamayo@upb.edu.co>
+Date:   Thu Jul 24 17:04:22 2025 -0500
+
+    describí los pasos necesarios para clonar y ejecutar un repositorio remoto
+
+[33mcommit 7f40c61608f4fdc6f85bab4ab01063a697f9302e[m
+Author: Joe <joe.tamayo@upb.edu.co>
+Date:   Thu Jul 24 17:03:13 2025 -0500
+
+    cree una breve descripción del contenido del repositorio
+
+[33mcommit 987157ffbeab67080c47fda69704fcf401ffb7a6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Jul 22 22:08:38 2025 +0000
+
+    add deadline
+
+[33mcommit cdb2c62abd19fe6809cbe8c45bfc7656e87427d0[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Jul 22 22:08:36 2025 +0000
+
+    Setting up GitHub Classroom Feedback
+
+[33mcommit 26c46a3111e445dfd4f1e46de2e413492698f628[m[33m ([m[1;31morigin/feedback[m[33m)[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Jul 22 22:08:35 2025 +0000
+
+    GitHub Classroom Feedback
+
+[33mcommit cf3d90c67f389da45178e5954c16196b18d2daea[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Jul 15 04:09:09 2025 +0000
+
+    Initial commit
